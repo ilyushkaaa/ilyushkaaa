@@ -21,4 +21,4 @@
 
 ### Много моего кода также можно найти на Gitlab:
 
-[![website](./img/vk.svg)](https://gitlab.com/ilyushkaaa)
+[![website](./img/gitlab.svg)](https://gitlab.com/ilyushkaaa)
